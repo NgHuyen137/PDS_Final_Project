@@ -29,7 +29,7 @@ Final project of Programming for Data Science
 
 ```
 📦PDS_Final_Project
-├──📦notebook
+├──📦notebooks
 │   ├──📜0. Overview.ipynb
 │   ├──📜1. Exploring.ipynb
 │   └──📜2. Eda.ipynb

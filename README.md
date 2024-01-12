@@ -63,7 +63,7 @@ Final project of Programming for Data Science
 2. Clone repository to your device
 
 ```
-  git clone https://github.com/MTriNguci/DS_FINAL_PROJ.git
+  https://github.com/NgHuyen137/PDS_Final_Project.git
 ```
 3. Open Jupyter Notebook (Anaconda/Miniconda/...)
 

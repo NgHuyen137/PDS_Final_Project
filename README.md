@@ -28,12 +28,13 @@ Final project of Programming for Data Science
 ## Structure
 
 ```
-📦PDS_Final_Project
-├──📦notebooks
+
+📂PDS_Final_Project
+├──📂notebook
 │   ├──📜0. Overview.ipynb
 │   ├──📜1. Exploring.ipynb
 │   └──📜2. Eda.ipynb
-├──📦data
+├──📂data
 │   ├──📜cleaned_data.csv
 │   ├──📜data.csv
 │   └──📜schema.csv
